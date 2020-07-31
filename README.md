@@ -13,4 +13,4 @@ This is a pattern created using the quantum phase estimation algorithm. We give 
 
 Each pixel takes as input the 9 pixels surrounding it. A quantum circuit is then used to calculate whether that pixel is 'on' or 'off'. I tried to emulate the conditions of Conway's game of life by making the probability of being on peak at around 4 nieghbouring pixels being 'on' and fall off with more, but I found getting results that did not die off instantly or grow uncontrollably relied on a careful balance of this probability and initial conditions.
 
-![Game of life pattern 1](examples/gol_theta_0.46.gif)
+![Game of life pattern 3](examples/gol_theta_0.39.gif) ![Game of life pattern 1](examples/gol_theta_0.46.gif) ![Game of life pattern 4](examples/gol_theta_5.5.gif) ![Game of life pattern 2](examples/gol_line_0.45.gif)
