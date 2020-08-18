@@ -1,5 +1,5 @@
 # Quantum Doodles
-Little visualisations using quantum-related programs. 
+This repo contains little visualisations using quantum-related programs. 
 
 ## QPE Pattern
 
